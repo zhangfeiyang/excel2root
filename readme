@@ -1,2 +1,9 @@
 this script is for concersion of excel to root file
 the excel file is data from oscilloscope 
+
+git init
+git add *
+git commit -m "add tutorial of how to use github"
+git remote add origin master git@github.com:zhangfeiyang/excel2root.git
+git push origin master
+
